@@ -1,14 +1,14 @@
-#My First Project
+# My First Project
 
-##About
+## About
 
 This is my first GitHub repository created  in ICT lab.
 
-##Student Info:
+## Student Info
 
--Name: Syeda Jaweria Yousaf
+- Name: Syeda Jaweria Yousaf
 
--Program: BS IT
+- Program: BS IT
 
--Date: October,2026
+- Date: October,2026
 
